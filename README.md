@@ -20,6 +20,12 @@ Full-stack developer based in Copenhagen. I have worked professionally with soft
 
 ## Current stack
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://uus.dev/assets/github-tech-dark.png?v=1">
+  <source media="(prefers-color-scheme: light)" srcset="https://uus.dev/assets/github-tech-light.png?v=1">
+  <img alt="Core technologies: Angular, TypeScript, .NET, C#, PostgreSQL, Docker, GitHub Actions, and Linux" src="https://uus.dev/assets/github-tech-light.png?v=1" width="768">
+</picture>
+
 | Area | Core tools |
 | --- | --- |
 | Product web | Angular, TypeScript, RxJS, NgRx |
