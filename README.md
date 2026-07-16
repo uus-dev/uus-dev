@@ -6,8 +6,7 @@
 
 <p align="center">
   <a href="https://uus.dev">CV &amp; background</a> ·
-  <a href="https://www.linkedin.com/in/uus-dev/">LinkedIn</a> ·
-  <a href="https://gitlab.com/uus-dev">GitLab</a>
+  <a href="https://www.linkedin.com/in/uus-dev/">LinkedIn</a>
 </p>
 
 ## Profile
