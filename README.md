@@ -5,8 +5,9 @@
 </picture>
 
 <p align="center">
-  <a href="https://uus.dev">CV &amp; background</a> ·
-  <a href="https://www.linkedin.com/in/uus-dev/">LinkedIn</a>
+  <a href="https://uus.dev"><img alt="uus.dev" src="https://uus.dev/assets/github-button-site.svg?v=1" height="38"></a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/uus-dev/"><img alt="LinkedIn" src="https://uus.dev/assets/github-button-linkedin.svg?v=1" height="38"></a>
 </p>
 
 ## Profile
