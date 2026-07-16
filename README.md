@@ -4,10 +4,12 @@
   <img alt="Umais Usman Shoaib — software engineer with strong communication skills" src="https://uus.dev/assets/github-profile-light.svg?v=2">
 </picture>
 
+<br>
+
 <p align="center">
-  <a href="https://uus.dev"><img alt="uus.dev" src="https://uus.dev/assets/github-button-site.svg?v=1" height="38"></a>
-  &nbsp;
-  <a href="https://www.linkedin.com/in/uus-dev/"><img alt="LinkedIn" src="https://uus.dev/assets/github-button-linkedin.svg?v=1" height="38"></a>
+  <a href="https://uus.dev"><img alt="uus.dev" src="https://uus.dev/assets/github-button-site.svg?v=1" height="30"></a>
+  &nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/uus-dev/"><img alt="LinkedIn" src="https://uus.dev/assets/github-button-linkedin.svg?v=1" height="30"></a>
 </p>
 
 ## Profile
