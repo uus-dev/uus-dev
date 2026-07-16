@@ -4,7 +4,7 @@
   <img alt="Umais Usman Shoaib — software engineer with strong communication skills" src="https://uus.dev/assets/github-profile-light.svg?v=2">
 </picture>
 
-<br><br>
+<p></p>
 
 <p align="left">
   <a href="https://uus.dev"><img alt="uus.dev" src="https://uus.dev/assets/github-button-site.svg?v=1" height="30"></a>
