@@ -1,7 +1,7 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://uus.dev/assets/github-profile-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://uus.dev/assets/github-profile-light.svg">
-  <img alt="Umais Usman Shoaib — software engineer with strong communication skills" src="https://uus.dev/assets/github-profile-light.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://uus.dev/assets/github-profile-dark.svg?v=2">
+  <source media="(prefers-color-scheme: light)" srcset="https://uus.dev/assets/github-profile-light.svg?v=2">
+  <img alt="Umais Usman Shoaib — software engineer with strong communication skills" src="https://uus.dev/assets/github-profile-light.svg?v=2">
 </picture>
 
 <p align="center">
